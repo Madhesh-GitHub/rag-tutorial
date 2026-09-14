@@ -1,0 +1,27 @@
+{
+  "name": "rag-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madhesh-GitHub/rag-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Madhesh-GitHub/rag-tutorial/issues"
+  },
+  "homepage": "https://github.com/Madhesh-GitHub/rag-tutorial#readme",
+  "dependencies": {
+    "@google/genai": "^2.22.0",
+    "dotenv": "^17.4.2",
+    "mongodb": "^7.6.0",
+    "pdf-parse": "^2.4.5"
+  }
+}
